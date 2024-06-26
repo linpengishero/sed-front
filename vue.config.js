@@ -16,6 +16,7 @@ module.exports = {
     {
         host: '0.0.0.0',
         port:443,
-        disableHostCheck: true
+        disableHostCheck: true,
+        open: true
     }
 }
